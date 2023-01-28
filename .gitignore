@@ -1,0 +1,16 @@
+venv/
+
+*.pyc
+flaskr/__pycache__/
+
+instance/
+
+.vscode/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
